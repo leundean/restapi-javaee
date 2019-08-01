@@ -1,0 +1,7 @@
+etc/birdsrest/service/CorsFilter.class
+etc/birdsrest/service/AbstractFacade.class
+etc/birdsrest/service/BirdFacadeREST.class
+etc/birdsrest/service/ButterflyFacadeREST.class
+etc/birdsrest/service/ApplicationConfig.class
+entities/Butterfly.class
+entities/Bird.class

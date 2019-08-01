@@ -1,0 +1,7 @@
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/etc/birdsrest/service/AbstractFacade.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/etc/birdsrest/service/BirdFacadeREST.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/entities/Butterfly.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/etc/birdsrest/service/ButterflyFacadeREST.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/etc/birdsrest/service/ApplicationConfig.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/etc/birdsrest/service/CorsFilter.java
+/home/lceo/NetBeansProjects/mwp/restapi-javaee/src/main/java/entities/Bird.java
